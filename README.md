@@ -1,3 +1,3 @@
 # JeffreyAdu.github.io
-Landing and Subscription page
+Landing and Subscription pages
 
